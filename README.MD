@@ -6,4 +6,4 @@
 * Java + Selenium (проход по пользователям)
 * Hadoop (файловая система hdfs)
 * Apache Hbase + Apache Phoenix (база данных для выгрузки)
-* Tableau (визуализация данных)
+* Tableau (визуализация данных): https://public.tableau.com/profile/wefwef#!/
